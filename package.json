@@ -6,7 +6,8 @@
   "author": "culnoty <culnoty@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch":"webpack --watch"
   },
   "dependencies": {
     "react": "^15.6.1",
